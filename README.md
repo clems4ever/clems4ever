@@ -10,18 +10,10 @@
 <div align="center">
     <img
         alt="GitHub Stats"
-        src="https://raw.githubusercontent.com/clems4ever/github-stats/master/generated/overview.svg#gh-light-mode-only"
+        src="https://github-readme-stats.vercel.app/api?username=clems4ever&hide_rank=true"
     />
     <img
         alt="Language Stats"
-        src="https://raw.githubusercontent.com/clems4ever/github-stats/master/generated/languages.svg#gh-light-mode-only"
-    />
-    <img
-        alt="GitHub Stats"
-        src="https://raw.githubusercontent.com/clems4ever/github-stats/master/generated/overview.svg#gh-dark-mode-only"
-    />
-    <img
-        alt="Language Stats"
-        src="https://raw.githubusercontent.com/clems4ever/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=clems4ever&layout=compact"
     />
 </div>
