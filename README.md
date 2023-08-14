@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**clems4ever/clems4ever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on AI using my RTX 4090.
+- 🌱 I’m currently learning Pytorch.
+- 👯 I’m looking to collaborate on AI research around models explainability and meta-learning.
+- 📫 How to reach me: You can reach me via [email](mailto:clement.michaud34@gmail.com)
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img
+        alt="GitHub Stats"
+        src="https://raw.githubusercontent.com/clems4ever/github-stats/master/generated/overview.svg#gh-light-mode-only"
+    />
+    <img
+        alt="Language Stats"
+        src="https://raw.githubusercontent.com/clems4ever/github-stats/master/generated/languages.svg#gh-light-mode-only"
+    />
+    <img
+        alt="GitHub Stats"
+        src="https://raw.githubusercontent.com/clems4ever/github-stats/master/generated/overview.svg#gh-dark-mode-only"
+    />
+    <img
+        alt="Language Stats"
+        src="https://raw.githubusercontent.com/clems4ever/github-stats/master/generated/languages.svg#gh-dark-mode-only"
+    />
+</div>
