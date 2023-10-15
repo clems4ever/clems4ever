@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI using my RTX 4090.
-- 🌱 I’m currently learning Pytorch.
-- 👯 I’m looking to collaborate on AI research around models explainability and meta-learning.
+- 🔭 I’m currently doing independent research on AGI.
 - 📫 You can reach me via [email](mailto:clement.michaud34@gmail.com).
 
 <br/>
