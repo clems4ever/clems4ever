@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently doing independent research on AGI.
+- 🔭 I’m currently doing independent research on AI.
 - 📫 You can reach me via [email](mailto:clement.michaud34@gmail.com).
 
 <br/>
